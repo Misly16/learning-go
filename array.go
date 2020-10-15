@@ -15,4 +15,5 @@ func main(){
 	fmt.Println(nameArray)
 	fmt.Println("\nThe first name is",nameArray[0] )
 	fmt.Println("\nThe second name is",nameArray[1] )
+	fmt.Println(len(nameArray))
 }
